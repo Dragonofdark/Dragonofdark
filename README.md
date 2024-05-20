@@ -6,7 +6,7 @@
 - 🏢 Atualmente não estou trabalhando porem estou em busca de um emprego como Dev Back-end.
 - 📚 Estou atualmente estudando: Python, JavaScript para Back-end, DevOps e GitHub
 - 👯 Durante o Ensino Médio fiz dois trabalhos que são legais de citar, o primeiro foi o TCC onde meu grupo criou um pequeno robo em formato de carro chamado Citrus-Car que tem o intuito de ajudar os agricultores familiares durante a plantação de Citros, onde com esse projeto fomos classificados a participar da 3M e o outro projeto é chamado de notes que é um aplicativo de notas para ajudar no dia a dia.
-- 🤔 No futuro pretendo estudar sobre: IA mas precisamente sobre o chatGPT para melhorar minha produtividade, MySqlite, AWS, JavaScript para front-end e desenvolvimento de jogos
+- 🤔 No futuro pretendo estudar sobre: IA para melhorar minha produtividade, MySqlite, AWS, JavaScript para front-end e desenvolvimento de jogos
 - 💬 Converse comigo sobre técnologia, animes e jogos
 - 📫 Meus contatos: 
 <div>
