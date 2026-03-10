@@ -1,4 +1,4 @@
-## Olá 👋, Me chamo João Pedro mas geralmente sou chamado pelo apelido de JP, sou um estudande da Fatec Americana que busca novos conhecimentos em tecnologias especialmente nas areas relacionandas a Dev. Amo técnologia e adoro aprender coisas novas relacionanadas a ela. 
+## Olá 👋, Me chamo João Pedro mas geralmente sou chamado pelo apelido de JP, sou um estudande da Fatec Americana que busca novos conhecimentos em tecnologias especialmente nas areas relacionadas a Dev. Amo técnologia e adoro aprender coisas novas relacionadas a ela. 
 
 <details>
 <summary>👦 Mais sobre mim:</summary>
